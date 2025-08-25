@@ -227,8 +227,9 @@ KISTI의 초거대AI연구센터는 2023년 12월 KISTI는 생성형 거대 언�
 문제가 있거나 질문이 있으시면 [Issues](https://github.com/ansua79/kisti-mcp/issues)에서 문의해주세요.
 
 ## 관련 링크
-
-- [SpectraBench](https://github.com/gwleee/SpectraBench) - Intelligent Scheduling System for Large Language Model Benchmarking
+- [KISTI-AI-Platform-Team](https://github.com/KISTI-AI-Platform-Team/BlueSkyNova)
 - [KONI:KISTI Open Neural Intelligence](https://huggingface.co/KISTI-KONI) - KISTI 과학기술정보 특화 거대언어생성모델
+- [SpectraBench](https://github.com/gwleee/SpectraBench) - Intelligent Scheduling System for Large Language Model Benchmarking
+- [DOREA(Document-Oriented Reasoning and Explanation Assistant)](https://github.com/Byun11/Dorea-pdf-ai)
 - [KISTI ScienceON](https://scienceon.kisti.re.kr/)
 - [KISTI NTIS](https://www.ntis.go.kr)
